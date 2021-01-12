@@ -11,3 +11,6 @@ Responsive Landing Page Christmas Using HTML CSS And JavaScript
 
 # Dark mode
 ![picture](https://github.com/Tobisam-2000/Tobisam-2000-Responsive-Landing-page-Christmas-Gift/blob/main/darkmode.jpg)
+
+# Mobile view
+![picture](https://github.com/Tobisam-2000/Tobisam-2000-Responsive-Landing-page-Christmas-Gift/blob/main/mobile.jpg)
